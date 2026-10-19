@@ -17,8 +17,8 @@ Install our offline legal operating system and court document formatting engine 
 
 | Operating System | Recommended Download | Direct Link |
 |---|---|---|
-| **🪟 Windows (10/11)** | Standard Desktop App Setup (`.exe`) | [👉 **Download Windows Setup (23.7 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Setup.exe) |
-| **🪟 Windows (Enterprise)**| Enterprise System MSI (`.msi`) | [👉 **Download Windows MSI (34.3 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Enterprise.msi) |
+| **🪟 Windows (10/11)** | Standard Desktop App Setup (`.exe`) | [👉 **Download Windows Setup (24.5 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Setup.exe) |
+| **🪟 Windows (Enterprise)**| Enterprise System MSI (`.msi`) | [👉 **Download Windows MSI (35.2 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Enterprise.msi) |
 | **🍏 Mac (Apple Silicon)** | Modern Macs (M1 / M2 / M3 / M4) (`.dmg`) | [👉 **Download Mac Apple Silicon (33.9 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Mac_AppleSilicon.dmg) |
 | **🍏 Mac (Intel)** | Intel-based Macs (`.dmg`) | [👉 **Download Mac Intel (33.9 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Mac_Intel.dmg) |
 | **🤖 Linux / GrokBot** | Standalone Headless CLI (x86_64) | [👉 **Download Linux / GrokBot CLI (47.4 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/justlegalos-cli-linux-grokbot-x86_64) |
