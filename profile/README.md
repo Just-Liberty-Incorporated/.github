@@ -17,8 +17,9 @@ Install our offline legal operating system and court document formatting engine 
 
 | Operating System | Recommended Download | Direct Link |
 |---|---|---|
-| **🪟 Windows (10/11)** | Standard Desktop App Setup (`.exe`) | [👉 **Download Windows Setup (24.5 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Setup.exe) |
-| **🪟 Windows (Enterprise)**| Enterprise System MSI (`.msi`) | [👉 **Download Windows MSI (35.2 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Enterprise.msi) |
+| **🪟 Windows (10/11)** | Standard Desktop App Setup (`.exe`) | [👉 **Download Windows Setup (24.7 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Setup.exe) |
+| **🪟 Windows (Enterprise)**| Enterprise System MSI (`.msi`) | [👉 **Download Windows MSI (35.3 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_64bit_Enterprise.msi) |
+| **🪟 Windows (CLI & MCP)**| Standalone Windows CLI (`.exe`) | [👉 **Download Windows CLI (40.9 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Windows_CLI.exe) |
 | **🍏 Mac (Apple Silicon)** | Modern Macs (M1 / M2 / M3 / M4) (`.dmg`) | [👉 **Download Mac Apple Silicon (33.9 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Mac_AppleSilicon.dmg) |
 | **🍏 Mac (Intel)** | Intel-based Macs (`.dmg`) | [👉 **Download Mac Intel (33.9 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/JustLegalOS_v0.1.0_Mac_Intel.dmg) |
 | **🤖 Linux / GrokBot** | Standalone Headless CLI (x86_64) | [👉 **Download Linux / GrokBot CLI (47.4 MB)**](https://github.com/Just-Liberty-Incorporated/JustLegalOS/releases/latest/download/justlegalos-cli-linux-grokbot-x86_64) |
@@ -41,6 +42,19 @@ We do not practice law, give legal advice, or represent parties in court. Instea
 
 ---
 
+## 🏛️ Expanded Whistleblower, Fraud & Administrative Accountability Architecture
+
+While version 0.1.0 was forged to triage **Street-Level Storefront Fraud** (ghost clinics, dark windows during posted hours, and inactive NPIs billing Medicare/Medicaid under Executive Order 14395), JustLegal OS now encompasses the complete spectrum of **Systemic Institutional Mismanagement & Government Contractor Fraud**.
+
+When ordinary citizens experience systemic fallout—such as automated unemployment integrity freezes, non-responsive state agencies, and multi-billion-dollar contractor IT failures—traditional advice often defaults to defeatist brush-offs like *"go vote,"* *"call 211,"* or *"post on social media."* JustLegal OS replaces platitudes with **deterministic systems-engineering and statutory bypass routing**:
+
+* **Navigating Sovereign Immunity (*Stevens* Boundary & Valid Bypasses):** Under *Vermont Agency of Natural Resources v. United States ex rel. Stevens*, 529 U.S. 765 (2000), states cannot be sued in qui tam lawsuits. The engine evaluates 5 lawful bypasses: *Ex parte Young* (prospective injunctive relief against officials), Title II ADA abrogation (*United States v. Georgia*, 546 U.S. 151 (2006)), § 504 Rehabilitation Act Spending Clause waivers, and private prime contractor liability (31 U.S.C. § 3729(b)(2)(A)(ii)).
+* **FRCP Rule 20(a)(1) Multi-Plaintiff Joinder:** Because pro se litigants cannot represent a Rule 23 class (*Oxendine v. Williams*), the engine formats joint actions for 2–25 affected filers on a single docket, splitting one $405 filing fee and curing mootness.
+* **Pre-Filing Open Records Suite (CORA & FOIA):** Generates formal records requests under state and federal sunshine laws (Colorado CORA C.R.S. § 24-72-201, FOIA 5 U.S.C. § 552) with 501(c)(3) public interest fee waivers, tracking compliance windows with court holiday tolling.
+* **Vernacular-to-Doctrine Engine:** Translates colloquial grievances ("they committed treason", "they took kickbacks") into actionable statutory claims (18 U.S.C. §§ 666/1346, 42 U.S.C. § 1983, Civil RICO 18 U.S.C. § 1964(c)) paired with element-by-element evidence blueprints.
+
+---
+
 ## The 3 Pillars of Our Ecosystem
 
 ```
@@ -60,7 +74,7 @@ We do not practice law, give legal advice, or represent parties in court. Instea
 * **Offline-First Court Engine:** A desktop client (Tauri v2 + Svelte 5) and native Rust CLI that formats a person's own draft into court-shaped pleadings, notice of appeals, and motions.
 * **Deterministic Rules Engine:** Sourced deadline formulas, court holiday tolling, and certificate generation for Colorado, New Jersey, Federal District Courts, and appellate divisions.
 * **Local Airgap Guarantee:** 100% offline document assembly. Cases marked `.sealed` permanently block all network sync, and patient/whistleblower files are protected in local encrypted vaults (XChaCha20Poly1305 + Argon2id).
-* **Model Context Protocol (MCP):** Connects external AI assistants (GrokBot, Claude, Cursor) to run local diagnostics safely with zero file leaks.
+* **Model Context Protocol (MCP):** Connects external AI assistants (GrokBot, Claude, Cursor) to run local diagnostics safely with zero file leaks across 111 deterministic local tools.
 
 ### 2. [JustLegal.me](https://justlegal.me) — Public Court Access & Web Tools
 * **National Forms Index:** 22,936 indexed court forms across all 50 states and 94 federal judicial districts.
@@ -74,7 +88,7 @@ We do not practice law, give legal advice, or represent parties in court. Instea
 
 ## Executive Order 14395 & Qui Tam Fraud Triage ([justlegal.me/qui-tam](https://justlegal.me/qui-tam))
 
-Under **Executive Order 14395 ("Establishing the Task Force to Eliminate Fraud")**, the White House Task Force chaired by the Vice President coordinates federal fraud elimination across Provider Enrollments, Eligibility Attestations, and Third-Party Intermediaries.
+Under **Executive Order 14395 ("Establishing the Task Force to Eliminate Fraud")**, the White House Task Force coordinates federal fraud elimination across Provider Enrollments, Eligibility Attestations, and Third-Party Intermediaries.
 
 Just Liberty Incorporated provides a **free, public-interest pre-seal verification pipeline** that turns citizen observations and insider disclosures into cryptographically hashed, Federal Rule of Civil Procedure 9(b)-graded dossiers:
 
