@@ -87,16 +87,17 @@ When ordinary citizens experience systemic fallout—such as automated unemploym
 
 ---
 
-## Executive Order 14395 & Qui Tam Fraud Triage ([justlegal.me/qui-tam](https://justlegal.me/qui-tam))
+## Two-Tier Whistleblower Economy: WHIP ($30k on fraud.gov) & Sealed Qui Tam ([justlegal.me/qui-tam](https://justlegal.me/qui-tam))
 
-Under **Executive Order 14395 ("Establishing the Task Force to Eliminate Fraud")**, the White House Task Force coordinates federal fraud elimination across Provider Enrollments, Eligibility Attestations, and Third-Party Intermediaries.
+Under the newly announced **White House / DOJ $25 Million Fraud Whistleblower Incentive Program (WHIP on fraud.gov)**, the **DOJ May 27, 2026 Benefits-Fraud Directive**, and **Executive Order 14395**, federal fraud enforcement operates on a coordinated two-tier track:
 
 Just Liberty Incorporated provides a **free, public-interest pre-seal verification pipeline** that turns citizen observations and insider disclosures into cryptographically hashed, Federal Rule of Civil Procedure 9(b)-graded dossiers:
 
-* **Preventing Fatal Seal Violations:** Strictly educates whistleblowers on **31 U.S.C. § 3730(b)(2)** to stop them from publishing allegations on social media, which destroys claims under the Public Disclosure Bar (§ 3730(e)(4)).
+* **Tier 1: Fast-Track Citizen Bounty (`WHIP` via `fraud.gov` — Up to $30,000, Zero Lawyer Needed):** Built for street-level observations (ghost daycares, shuttered clinics, strip-mall billing mills). Automatically generates character-limited `<2,000` char submissions, scrubs PII, and compiles an attached, tamper-proof SHA-256 photographic PDF packet (`WHIP_Evidence_Packet.pdf`).
+* **Tier 2: High-Dollar Sealed Qui Tam Lawsuit (31 U.S.C. § 3730 — 15% to 30% Relator Bounty):** For $1M–$100M+ contractor schemes (e.g., Deloitte state UI IT contracts, regional healthcare billing). Evaluates DOJ's fast **60-to-120 day intervention decision clock** under the May 27, 2026 memo. Filed under seal by contingency relator counsel ($0 upfront).
+* **Preventing Fatal Seal & Disclosure Violations:** Strictly educates whistleblowers on **31 U.S.C. § 3730(b)(2)** and the **Public Disclosure Bar (§ 3730(e)(4))** to stop them from publishing allegations on social media or submitting high-dollar contractor claims to public portals prematurely.
 * **Deterministic FRCP Rule 9(b) Scoring:** Grades cases on a 0–100 particularity scale across *Who, What, When, Where, How, Scienter, and Materiality*.
-* **Standardized Calling Card:** Outputs the recognized `[JustLegal Standard v1.0 | EO-14395]` diagnostic header block for 90-second triage by federal investigators and qui tam counsel.
-* **Dual-Track Final Routing:** Routes high-dollar claims to specialized contingency False Claims Act law firms under seal (Track A), or auto-formats character-limited submissions for HHS-OIG, SBA-OIG, USDA-OIG, and State AG MFCU portals (Track B).
+* **Standardized Calling Card v1.1:** Outputs the recognized `[JUSTLEGAL STANDARD v1.1 | WHIP & EO-14395 PRE-VERIFIED DISCLOSURE]` diagnostic header block for 90-second triage by federal investigators, DOJ intake officers, and qui tam counsel.
 
 ---
 
