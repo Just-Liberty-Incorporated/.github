@@ -4,10 +4,11 @@
 [![Nonprofit](https://img.shields.io/badge/501(c)(3)-Nonprofit%20Public%20Charity-blue?style=for-the-badge)](https://www.truejust.org)
 [![EIN](https://img.shields.io/badge/EIN-93--3704483-green?style=for-the-badge)](https://www.truejust.org)
 [![Colorado SOS](https://img.shields.io/badge/Colorado%20SOS-Good%20Standing%20%2320263025619-brightgreen?style=for-the-badge)](https://www.truejust.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Just%20Liberty%20Inc.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/just-liberty-incorporated/)
 [![Airgap](https://img.shields.io/badge/Security-Local%20Airgap%20%7C%20Zero%20Telemetry-orange?style=for-the-badge)](https://github.com/Just-Liberty-Incorporated/JustLegalOS)
 
-**Official Web Portals:** [truejust.org](https://www.truejust.org) • [justlegal.me](https://justlegal.me) • [justlegal.me/qui-tam](https://justlegal.me/qui-tam)  
-**Primary Contact:** `josh@truejust.org`
+**Official Web Portals & Socials:** [truejust.org](https://www.truejust.org) • [justlegal.me](https://justlegal.me) • [Fraud Triage](https://justlegal.me/qui-tam) • [LinkedIn](https://www.linkedin.com/company/just-liberty-incorporated/)  
+**Primary Contact:** [josh@truejust.org](mailto:josh@truejust.org)
 
 ---
 
@@ -103,6 +104,8 @@ Just Liberty Incorporated provides a **free, public-interest pre-seal verificati
 
 * **Founder, Executive Director & Principal Architect:** Joshua M. Abrams ([@unlimitedinfinit](https://github.com/unlimitedinfinit))
 * **Entity Type:** 501(c)(3) Nonprofit Public Benefit Charity (Colorado, USA | EIN: `93-3704483`)
+* **LinkedIn:** [https://www.linkedin.com/company/just-liberty-incorporated/](https://www.linkedin.com/company/just-liberty-incorporated/)
+* **Direct Email:** [josh@truejust.org](mailto:josh@truejust.org)
 * **Bar Ethics & Independence:** Fully compliant with ABA Model Rules 5.4, 7.2(b)(2), and 1.18. Just Liberty operates exclusively for public charitable and educational purposes.
 
 ---
