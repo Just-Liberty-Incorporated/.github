@@ -75,7 +75,8 @@ When ordinary citizens experience systemic fallout—such as automated unemploym
 * **Offline-First Court Engine:** A desktop client (Tauri v2 + Svelte 5) and native Rust CLI that formats a person's own draft into court-shaped pleadings, notice of appeals, and motions.
 * **Deterministic Rules Engine:** Sourced deadline formulas, court holiday tolling, and certificate generation for Colorado, New Jersey, Federal District Courts, and appellate divisions.
 * **Local Airgap Guarantee:** 100% offline document assembly. Cases marked `.sealed` permanently block all network sync, and patient/whistleblower files are protected in local encrypted vaults (XChaCha20Poly1305 + Argon2id).
-* **Model Context Protocol (MCP):** Connects external AI assistants (GrokBot, Claude, Cursor) to run local diagnostics safely with zero file leaks across 111 deterministic local tools.
+* **Model Context Protocol (MCP):** Connects external AI assistants (GrokBot, Claude, Cursor) to run local diagnostics safely with zero file leaks across 120+ deterministic local tools.
+* **The Master 4-Step Funnel:** Standardizes citizen inquiries across a deterministic 4-step sequence: (1) First-party statutory discovery & 30-day clock, (2) Live registry target verification, (3) Post-relocation contradiction audit, and (4) 5-gate receiver-ready routing.
 
 ### 2. [JustLegal.me](https://justlegal.me) — Public Court Access & Web Tools
 * **National Forms Index:** 22,936 indexed court forms across all 50 states and 94 federal judicial districts.
@@ -87,17 +88,18 @@ When ordinary citizens experience systemic fallout—such as automated unemploym
 
 ---
 
-## Two-Tier Whistleblower Economy: WHIP ($30k on fraud.gov) & Sealed Qui Tam ([justlegal.me/qui-tam](https://justlegal.me/qui-tam))
+## Statutory Whistleblower Verification: DOJ WHIP & Sealed Qui Tam ([justlegal.me/qui-tam](https://justlegal.me/qui-tam))
 
-Under the newly announced **White House / DOJ $25 Million Fraud Whistleblower Incentive Program (WHIP on fraud.gov)**, the **DOJ May 27, 2026 Benefits-Fraud Directive**, and **Executive Order 14395**, federal fraud enforcement operates on a coordinated two-tier track:
+Under the **Department of Justice Fraud Whistleblower Incentive Program (WHIP on america.gov/fraud & fraud.gov)**, **DOJ Directive 26-12**, and **Executive Order 14395**, federal fraud enforcement operates on a coordinated two-tier track:
 
-Just Liberty Incorporated provides a **free, public-interest pre-seal verification pipeline** that turns citizen observations and insider disclosures into cryptographically hashed, Federal Rule of Civil Procedure 9(b)-graded dossiers:
+Just Liberty Incorporated provides a **free, public-interest pre-seal verification pipeline** that turns citizen observations and insider disclosures into cryptographically hashed, Federal Rule of Civil Procedure 9(b)-grounded dossiers:
 
-* **Tier 1: Fast-Track Citizen Bounty (`WHIP` via `fraud.gov` — Up to $30,000, Zero Lawyer Needed):** Built for street-level observations (ghost daycares, shuttered clinics, strip-mall billing mills). Automatically generates character-limited `<2,000` char submissions, scrubs PII, and compiles an attached, tamper-proof SHA-256 photographic PDF packet (`WHIP_Evidence_Packet.pdf`).
-* **Tier 2: High-Dollar Sealed Qui Tam Lawsuit (31 U.S.C. § 3730 — 15% to 30% Relator Bounty):** For $1M–$100M+ contractor schemes (e.g., Deloitte state UI IT contracts, regional healthcare billing). Evaluates DOJ's fast **60-to-120 day intervention decision clock** under the May 27, 2026 memo. Filed under seal by contingency relator counsel ($0 upfront).
-* **Preventing Fatal Seal & Disclosure Violations:** Strictly educates whistleblowers on **31 U.S.C. § 3730(b)(2)** and the **Public Disclosure Bar (§ 3730(e)(4))** to stop them from publishing allegations on social media or submitting high-dollar contractor claims to public portals prematurely.
-* **Deterministic FRCP Rule 9(b) Scoring:** Grades cases on a 0–100 particularity scale across *Who, What, When, Where, How, Scienter, and Materiality*.
+* **Track 1: Direct Citizen Whistleblower Reporting (WHIP via america.gov/fraud):** Built for street-level observations (ghost daycares, shuttered clinics, strip-mall billing mills) and verified independent analysis under 28 U.S.C. § 530C(b)(1)(L). Automatically generates character-limited ≤ 1,950 char submissions, scrubs PII, and compiles an attached, tamper-proof SHA-256 photographic PDF packet (`WHIP_Evidence_Packet.pdf`).
+* **Track 2: Sealed False Claims Act Qui Tam Lawsuits (31 U.S.C. §§ 3729–3733):** For large contractor and institutional healthcare schemes. Evaluates statutory relator shares (15%–25% intervened; 25%–30% declined under 31 U.S.C. § 3730(d)). Strictly prepared for filing under seal by retained contingency relator counsel ($0 upfront).
+* **Preventing Fatal Seal & Disclosure Violations:** Strictly educates whistleblowers on **31 U.S.C. § 3730(b)(2)** and the **Public Disclosure Bar (§ 3730(e)(4))** to stop them from publishing allegations on social media or submitting non-public insider records to public portals prematurely.
+* **Deterministic 4-State Verification Receipt:** Enforces the principle that *"the valuable object is a refusal, not a grade."* Classifies evidence across *Who, What, When, Where, How, Scienter, and Materiality* strictly as `VERIFIED`, `USER_STATED`, `MISSING`, or `LOOKUP_FAILED` against live government registries (CMS NPPES, USAspending, SAM.gov), failing closed when required proof is absent.
 * **Standardized Calling Card v1.1:** Outputs the recognized `[JUSTLEGAL STANDARD v1.1 | WHIP & EO-14395 PRE-VERIFIED DISCLOSURE]` diagnostic header block for 90-second triage by federal investigators, DOJ intake officers, and qui tam counsel.
+* **5-Gate Pre-Submission Lock:** Zero autonomous filing. All submissions require Receipt Check, Lawfulness Check, Route Clearance, Linter Pass, and Explicit Final Human Review.
 
 ---
 
